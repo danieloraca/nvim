@@ -1,0 +1,5 @@
+require("DynamoDan.remap")
+require("DynamoDan.set")
+require("DynamoDan.intelephense")
+require("DynamoDan.packer")
+print("Howdy do, DynamoDan!")
