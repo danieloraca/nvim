@@ -10,4 +10,3 @@ default_config = {
     return util.path.is_descendant(cwd, root) and cwd or root
   end,
 }
-
