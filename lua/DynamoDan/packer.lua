@@ -77,7 +77,8 @@ return require('packer').startup(function(use)
     use 'hrsh7th/vim-vsnip'
 
     use 'voldikss/vim-floaterm'
-
+    use 'freddiehaddad/feline.nvim'
+    
+    -- TOKYO COLOR source
     use "folke/tokyonight.nvim"
-    use 'freddiehaddad/feline.nvim' -- status bar
 end)

@@ -33,4 +33,3 @@ for _, lsp in ipairs(lsps) do
     on_attach = lsp_zero.on_attach,
   }
 end
-

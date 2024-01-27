@@ -18,4 +18,5 @@ require('goto-preview').setup {
   bufhidden = "wipe", -- the bufhidden option to set on the floating window. See :h bufhidden
   stack_floating_preview_windows = true, -- Whether to nest floating windows
   preview_window_title = { enable = true, position = "left" }, -- Whether to set the preview window title as the filename
+
 }
